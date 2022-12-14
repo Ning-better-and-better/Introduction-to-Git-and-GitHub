@@ -1,4 +1,4 @@
-name: Close Pull Request
+name: Close Pull Request After Check
 
 on:
   pull_request_target:
